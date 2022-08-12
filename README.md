@@ -1,10 +1,5 @@
 # Ich heiße Nicolas. 
 
-## Git та GitHub
-
-Дякую організаторам за гарний і ефективний курс по Git Basics. Для мене це не зовсім проста тема. Інформація, що викладена на ресурсі learngitbranching.js.org, добре сприймається. Гарно, просто і зрозуміло. 
-![gitmain](./assets/images/git-main.jpg)
-![gitmain](./assets/images/git-remote.jpg)
 
 ## Linux CLI, and HTTP
 
@@ -17,3 +12,9 @@
 2.	Стаття потрібна. Розумію. Нового матеріалу також багато. Важко зрозуміти все за один раз.
 3.	Як у п.2.
 
+## Git Collaboration
+
+![gitmain](./task_git_collaboration/git-main.jpg)
+![gitremote](./task_git_collaboration/git-remote.jpg)
+
+1.	Дякую організаторам за гарний і ефективний курс по Git Basics. Для мене це не зовсім проста тема. Інформація, що викладена на ресурсі learngitbranching.js.org, добре сприймається. Гарно, просто і зрозуміло. Був новий матеріал по роботі з комітами. Планую використовувати набуті знання для подальшої роботи. 
