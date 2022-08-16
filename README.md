@@ -109,7 +109,7 @@
 # Homework Screenshots
 
 ![html](./task_html_css_intro/learn-html.jpg)
-![html](./task_html_css_intro/learn-css.jpg)
+![css](./task_html_css_intro/learn-css.jpg)
 
 </p>
 </details>
@@ -122,6 +122,40 @@
 1.	Просте і зрозуміле пояснення основ html та css. Для мене найбільш корисною була лекція Conflict Resolution. Здивувало наявність такого інструмента як non-breaking space. Не знав ранніше.
 2.	Проходив цей курс раніше (PRO версія). Мені сподобалось. Матеріал викладається для тих, хто починає з нуля. Є можливість зразу практикувати і спостерігати за результатом. 
 3.	Теж саме, що п.2 
+
+</p>
+</details>
+
+</p>
+</details>
+
+<details><summary>Responsive Web Design</summary>
+<p>
+
+## Responsive Web Design
+
+<details><summary>Homework Screenshots</summary>
+<p>
+
+# Homework Screenshots
+
+![garten](./task_responsive_web_design/cssgridgarden.jpg)
+![frog](./task_responsive_web_design/flexboxfroggy.jpg)
+
+</p>
+</details>
+
+<details><summary>Homework feedback</summary>
+<p>
+
+# Homework feedback
+
+1.	Цікава стаття. Мав схожу практику на Codecademy. Також на прикладі додатку про погоду. 
+2.	Дякую автору. Цікава манера викладання. Заходить легко.
+3.	Дуже наочно. Все зрозуміло і навіть цікаво. Проблем не було. 
+4.	«Пришло время изучать гриды». Круто! Раніше вивчав тільки основи. Тому був новий матеріал для мене. 
+5.	Цікаве викладання матеріалу. Дуже ефективно. Мав проблеми з 26 і 28 завданням. Пішло не зразу.
+
 
 </p>
 </details>
