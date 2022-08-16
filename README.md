@@ -1,29 +1,130 @@
-# Ich heiße Nicolas. 
+# Front-End Course. 
 
+## Stage 0. Self-Study
+
+<details><summary>Git та GitHub</summary>
+<p>
+
+<details><summary>Homework Screenshots</summary>
+<p>
+
+# Homework Screenshots
+
+![gitmain](./task_git_collaboration/git-main.jpg)
+![gitremote](./task_git_collaboration/git-remote.jpg)
+
+</p>
+</details>
+
+<details><summary>Homework feedback</summary>
+<p>
+
+# Homework feedback
+
+1.	Прослухав частину курсу на Coursera. 
+2.	Пройшов рівні на learngitbranching.js.org. Скріншоти згнаходяться в розділі GitHub and Collaboration 
+3.	Створив README.md
+4.	Згадав основи по роботі з Git та GitHub. Матеріал для мене не виявився геть легким. Були труднощі. Подання матеріалу наочне і доступне.
+5.	Завдання виконав. Було не легко 
+
+
+</p>
+</details>
+
+
+</p>
+</details>
+
+<details><summary>Linux CLI, and HTTP</summary>
+<p>
 
 ## Linux CLI, and HTTP
 
+<details><summary>Homework Screenshots</summary>
+<p>
+
+# Homework Screenshots
+
 ![linquiz1](./task_linux_cli/linux-quiz-1.jpg)
-![linquiz1](./task_linux_cli/linux-quiz-2.jpg)
-![linquiz1](./task_linux_cli/linux-quiz-3.jpg)
-![linquiz1](./task_linux_cli/linux-quiz-4.jpg)
+![linquiz2](./task_linux_cli/linux-quiz-2.jpg)
+![linquiz3](./task_linux_cli/linux-quiz-3.jpg)
+![linquiz3](./task_linux_cli/linux-quiz-4.jpg)
+
+</p>
+</details>
+
+<details><summary>Homework feedback</summary>
+<p>
+
+# Homework feedback
 
 1.	Просте і зрозуміле пояснення матеріалу. Новий матеріал був починаючи з другого розділу. Я раніше не працював з Linux, але використовував деякі команди в терміналі. В цілому нового було багато.  Якщо буду працювати у галузі веб-розробки, то напевне буду використовувати. 
 2.	Стаття потрібна. Розумію. Нового матеріалу також багато. Важко зрозуміти все за один раз.
 3.	Як у п.2.
 
+</p>
+</details>
+
+
+</p>
+</details>
+
+<details><summary>Git Collaboration</summary>
+<p>
+
 ## Git Collaboration
+
+<details><summary>Homework Screenshots</summary>
+<p>
+
+# Homework Screenshots
 
 ![gitmain](./task_git_collaboration/git-main.jpg)
 ![gitremote](./task_git_collaboration/git-remote.jpg)
 
+</p>
+</details>
+
+<details><summary>Homework feedback</summary>
+<p>
+
+# Homework feedback
+
 1.	Дякую організаторам за гарний і ефективний курс по Git Basics. Для мене це не зовсім проста тема. Інформація, що викладена на ресурсі learngitbranching.js.org, добре сприймається. Гарно, просто і зрозуміло. Був новий матеріал по роботі з комітами. Планую використовувати набуті знання для подальшої роботи. 
 
+</p>
+</details>
+
+</p>
+</details>
+
+<details><summary>Intro to HTML and CSS</summary>
+<p>
+
 ## Intro to HTML and CSS
+
+<details><summary>Homework Screenshots</summary>
+<p>
+
+# Homework Screenshots
 
 ![html](./task_html_css_intro/learn-html.jpg)
 ![html](./task_html_css_intro/learn-css.jpg)
 
+</p>
+</details>
+
+<details><summary>Homework feedback</summary>
+<p>
+
+# Homework feedback
+
 1.	Просте і зрозуміле пояснення основ html та css. Для мене найбільш корисною була лекція Conflict Resolution. Здивувало наявність такого інструмента як non-breaking space. Не знав ранніше.
 2.	Проходив цей курс раніше (PRO версія). Мені сподобалось. Матеріал викладається для тих, хто починає з нуля. Є можливість зразу практикувати і спостерігати за результатом. 
 3.	Теж саме, що п.2 
+
+</p>
+</details>
+
+</p>
+</details>
