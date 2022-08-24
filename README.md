@@ -180,7 +180,7 @@
 # Homework Screenshots
 
 ![basicjs](./task_js_basics/basic-javascript.jpg)
-![es6js](./task_js_basics/es6-challenges.jpg)
+![esjs](./task_js_basics/challenges.jpg)
 ![datajs](./task_js_basics/basic-data-structures.jpg)
 ![algorithmjs](./task_js_basics/basic-algorithm-scripting.jpg)
 ![functionaljs](./task_js_basics/functional-programming.jpg)
