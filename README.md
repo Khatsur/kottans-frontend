@@ -164,6 +164,40 @@
 
 </p>
 </details>
+***************************************************************
 
 </p>
 </details>
+
+<details><summary>JS Basics</summary>
+<p>
+
+## JS Basics
+
+<details><summary>Homework Screenshots</summary>
+<p>
+
+# Homework Screenshots
+
+![basicjs](./task_js_basics/basic-javascript.jpg)
+![es6js](./task_js_basics/es6-challenges.jpg)
+![datajs](./task_js_basics/basic-data-structures.jpg)
+![algorithmjs](./task_js_basics/basic-algorithm-scripting.jpg)
+![functionaljs](./task_js_basics/functional-programming.jpg)
+![challengesjs](./task_js_basics/algorithm-scripting-challenges.jpg)
+
+</p>
+</details>
+
+<details><summary>Homework feedback</summary>
+<p>
+
+# Homework feedback
+
+1.	1.	Проходив цей курс раніше. Закінчив повністю цього літа курс по JS і отримав сертифікат - https://www.freecodecamp.org/certification/khatsur/javascript-algorithms-and-data-structures.
+Загалом все було зрозуміло. Важко було на JavaScript Algorithms and Data Structures Projects
+
+
+</p>
+</details>
+***************************************************************
