@@ -169,6 +169,39 @@
 </p>
 </details>
 
+<details><summary>HTML & CSS Practice</summary>
+<p>
+
+## Responsive Web Design
+
+<details><summary>Homework Screenshots</summary>
+<p>
+
+# Homework Screenshots
+
+![htmlcsspractice](./html-css-practice/html-css-practice.jpg)
+
+
+</p>
+</details>
+
+<details><summary>Homework feedback</summary>
+<p>
+
+# Homework feedback
+
+1.	Цікаве завдання. Виглядало простим. Насправді не було просто. Не все вдалося зробити так як хотілося. 
+2.	GitHub Pages - https://khatsur.github.io/hooli-style-popup/  
+3.	Repo - https://github.com/Khatsur/hooli-style-popup 
+
+
+</p>
+</details>
+***************************************************************
+
+</p>
+</details>
+
 <details><summary>JS Basics</summary>
 <p>
 
@@ -194,7 +227,7 @@
 
 # Homework feedback
 
-1.	1.	Проходив цей курс раніше. Закінчив повністю цього літа курс по JS і отримав сертифікат - https://www.freecodecamp.org/certification/khatsur/javascript-algorithms-and-data-structures.
+1. Проходив цей курс раніше. Закінчив повністю цього літа курс по JS і отримав сертифікат - https://www.freecodecamp.org/certification/khatsur/javascript-algorithms-and-data-structures.
 Загалом все було зрозуміло. Важко було на JavaScript Algorithms and Data Structures Projects
 
 
