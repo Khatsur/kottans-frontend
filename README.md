@@ -172,7 +172,7 @@
 <details><summary>HTML & CSS Practice</summary>
 <p>
 
-## Responsive Web Design
+## HTML & CSS Practice
 
 <details><summary>Homework Screenshots</summary>
 <p>
